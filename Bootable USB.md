@@ -5,4 +5,4 @@ https://grok.lsu.edu/article.aspx?articleid=17870
 https://www.cnet.com/tech/computing/how-to-create-a-windows-10-bootable-usb-its-easier-than-you-think/
 I have my own information on creating a bootable USB, I am describing below:
 Firstly, go to the file explorer and type \\srv02>go to students folder>click software>click OS>click microsoft>click Windows 10>copy windows 10.iso file>make a folder named OS and paste the copied file here.
-Put the bootable USB into the computer and run rufus>select windows 10 in boot selection box>select partititon scheme MBR>select NTFS file system>click on start>when the process is 100% completed, the bootable USB is ready to use.
+Put the bootable USB into the computer and Download rufus>run rufus>select windows 10 in boot selection box>select partititon scheme MBR>select NTFS file system>click on start>when the process is 100% completed, the bootable USB is ready to use.
