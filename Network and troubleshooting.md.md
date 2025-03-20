@@ -9,9 +9,16 @@ In this site, I find 10 different common steps for troubleshooting wireless netw
 
 (https://www.highspeedinternet.com/resources/no-internet-connection-troubleshooting-guide)
 
+I find 2 quick fixes for internet issues in this site named as restart your modem and router, check your wires and cables.
+
+I also find 3 more ways to fix it like move your router to a better spot, test a different website and check for an outage.
+
+I read in this link that If the internet still down, try using an Ethernet cable to test a connection.
 
 
 (https://www.electric.ai/blog/cant-connect-to-internet-how-to-troubleshoot)
+
+
 
 
 I find two sites with troubleshooting info to the Access point or wifi router.
