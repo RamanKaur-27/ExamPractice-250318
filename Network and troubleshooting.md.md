@@ -43,4 +43,4 @@ I notice that this site is very useful to troubleshoot info to the access point 
 
 like basic troubleshooting, determine the source of the problem, reboot the device and some troubleshooting steps including 
 
-check network settings, proxy settings, network cables, reset router and check the firewall or browser access issues.
+check network settings, proxy settings, network cables, reset router and check the firewall or browser access issues
