@@ -15,10 +15,12 @@ I also find 3 more ways to fix it like move your router to a better spot, test a
 
 I read in this link that If the internet still down, try using an Ethernet cable to test a connection.
 
+I think that this site provides beneficial information for troubleshooting wireless network connection problems, because it describes easy ways to solve the problems.
+
 
 (https://www.electric.ai/blog/cant-connect-to-internet-how-to-troubleshoot)
 
-
+I discover 15 ways to troubleshoot connection in this site. Some of them are check for physical connectivity issues, check the WI-Fi adapter, reset network settings, reboot the computer and forget Wi-Fi network.
 
 
 I find two sites with troubleshooting info to the Access point or wifi router.
