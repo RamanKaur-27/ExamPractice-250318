@@ -4,8 +4,11 @@ There is a information about basic network wifi connection and troubleshooting.
 [Here are three sites]
 (https://www.techtarget.com/searchnetworking/tip/Wireless-network-troubleshooting-Connectivity)
 
+In this site, I find 10 different common steps for troubleshooting wireless network connection problems.
+
 
 (https://www.highspeedinternet.com/resources/no-internet-connection-troubleshooting-guide)
+
 
 
 (https://www.electric.ai/blog/cant-connect-to-internet-how-to-troubleshoot)
