@@ -28,5 +28,9 @@ I find two sites with troubleshooting info to the Access point or wifi router.
 
 [First link] (https://www.networkdatapedia.com/post/acess-point-troubleshooting)
 
+In this site, I find a video with all steps that how to troubleshoot info to the access point or wifi router. I watched this 
+
+video and I configure all steps including Investigate, Testing, Test specific band, Test solution and Success.
+
 
 [Second link]  (https://www.russharvey.bc.ca/resources/internet.html)
