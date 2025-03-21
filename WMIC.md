@@ -10,5 +10,4 @@ In this website, I find different commands for WMIC and I configure how to use W
 
 [Third link](https://www.xorrior.com/wmic-the-enterprise/)
 
-
-
+I notice a brief usage guide for WMIC in this website. I discovered various commands for WMIC in this link.
