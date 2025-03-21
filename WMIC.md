@@ -1,3 +1,9 @@
+C:\Work>wmic cpu get caption, name, deviceid, numberofcores, maxclockspeed, status
+
+Caption                                DeviceID  MaxClockSpeed  Name                                 NumberOfCores  Status
+
+Intel64 Family 6 Model 183 Stepping 1  CPU0      2100           13th Gen Intel(R) Core(TM) i7-13700  16             OK
+
 ### Websites that explain what WMIC command is about:
 
 [Here is the 1st link](https://www.techtarget.com/searchenterprisedesktop/definition/Windows-Management-Instrumentation-Command-line-WMIC)
