@@ -20,23 +20,15 @@ Network Tab: The Network tab shows the network activity of each process, includi
 
 You can also view detailed statistics such as the TCP connections, listening ports, and network utilization.
 
-#### Steps To identify performance bottlenecks and resource utilization issues:
-
-Define Performance Metrics: Determine which performance metrics are most relevant to your system or application. 
-
-Monitor Resource Utilization: Use System Monitoring Tools: Use tools like top, htop, Task Manager (Windows), or Activity Monitor (macOS) to monitor CPU, memory, disk I/O, and network utilization.
-
-Analyze Logs and Metrics: Check Logs, Collect Metrics, Identify Trends.
-
-Profile Application Performance: CPU Profiling, Memory Profiling.
+####To identify performance bottlenecks and resource utilization issues:
 
 Identify Disk I/O Bottlenecks: Monitor Disk Usage, Disk Throughput.
 
 ## Websites that explain how to monitor the function of your computer.
 
-[Here is the first link](https://www.hp.com/us-en/shop/tech-takes/how-to-monitor-your-computers-performance)
+[1st link](https://www.hp.com/us-en/shop/tech-takes/how-to-monitor-your-computers-performance)
 
 [Second Website](https://www.currentware.com/blog/how-to-check-activity-on-computer/)
 
 [Another Link](https://www.timecamp.com/blog/smart-and-efficient-ways-to-track-computer-usage/)
-[link] (https://www.timecamp.com/blog/smart-and-efficient-ways-to-track-computer-usage/)
+
