@@ -6,5 +6,9 @@ This command provides good information about WMIC command. I find 5 different po
 
 [Second website](https://askgarth.com/blog/how-to-use-wmic/)
 
+In this website, I find different commands for WMIC and I configure how to use WMIC command.
+
 [Third link](https://www.xorrior.com/wmic-the-enterprise/)
+
+
 
