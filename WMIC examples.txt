@@ -1,0 +1,19 @@
+C:\Work>wmic cpu get caption, name, deviceid, numberofcores, maxclockspeed, status
+Caption                                DeviceID  MaxClockSpeed  Name                                 NumberOfCores  Status
+Intel64 Family 6 Model 183 Stepping 1  CPU0      2100           13th Gen Intel(R) Core(TM) i7-13700  16             OK
+
+
+C:\Work>wmic diskdrive get deviceid, mediatype, size
+DeviceID            MediaType              Size
+\\.\PHYSICALDRIVE0  Fixed hard disk media  240054796800
+\\.\PHYSICALDRIVE1  Fixed hard disk media  1024203640320
+
+
+C:\Work>wmic memorychip get capacity, memorytype, speed
+Capacity     MemoryType  Speed
+34359738368  0           4800
+
+
+C:\Work>wmic path win32_VideoController get name, driverversion
+DriverVersion  Name
+32.0.101.6078  Intel(R) UHD Graphics 770
